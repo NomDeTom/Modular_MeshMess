@@ -16,10 +16,14 @@ Solder modules and caps, resistors and mosfets down with solder paste and a hotp
 Add pin headers by hand. The module faces upwards.
 
 ## How to use
-The decoupling capacitors and small bulk capacitors are enough to use these on a breadboard. I'll release some socket designs soon:tm: to make them work with various MCUs.
+The decoupling capacitors and small bulk capacitors are enough to use these on a breadboard.
+
+I've made a slightly over-done MCU carrier for my beloved pro-micro board.
+
+I'll continue to produce MCU carriers as I find time.
 
 ### Bill of Material (BOM)
-The EEProm is not required for normal operation, and this include R5, R6, and C10.
+The EEProm is not required for normal operation, and this includes R5, R6, and C10 that go with it.
 
 The headers are standard 2.54mm pitch 1x8 or 2x8.
 
@@ -38,7 +42,11 @@ All errors are my own, but I would like to thank a number of people who have hel
 * vaRDas
 * OpenSourceCountry
 * Noon
+* A.li3n
 * Josh
 * Mark Birss
+* Vidplace7
+* wehooper4
+* Porkcube
 * Many more that I can't remember right now.
 
