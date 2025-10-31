@@ -1,5 +1,5 @@
 # Modular_MeshMess
-Modular lora breakout boards
+Modular lora breakout boards. Try Everything! Seriously. Try. Everything.
 
 ## Introduction
 I made some modular boards based on the Mikrobus specification. 
