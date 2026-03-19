@@ -8,6 +8,10 @@ For smaller modules, they work well and can sit inside the smallest footprint th
 
 Where I *think* that the boards follow the Mikrobus specification correctly, I've used the logo as permitted. Where I've deviated, I've omitted it.
 
+<img src="assets/mikrobus%20bottom.jpg" width="750">
+<img src="assets/mikrobus%20top.jpg" width="750">
+<img src="assets/bare%20board.jpg" width="750">
+
 ## How to make
 Send them off to a PCB fab house and get them to make the PCBs. They're 2-layer and fairly generous with tolerances.
 
